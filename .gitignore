@@ -1,5 +1,7 @@
 # Package Files #
 out
-buc.sso*
 target
 build
+.idea
+*.iml
+.DS_Store
